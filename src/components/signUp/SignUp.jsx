@@ -1,7 +1,7 @@
-import FormateForm from "../form/FormateForm";
+import FormateForm from "../signUp/FormateForm";
 import { useState } from "react";
-import { REGISTER_URL } from "../../../url";
-import api from "../../../api";
+import { REGISTER_URL } from "../../url";
+import api from "../../api";
 import { useNavigate } from "react-router-dom";
 import React from 'react';
 
