@@ -1,12 +1,13 @@
 {
     "compilerOptions": {
-        // ...
-        "baseUrl": ".",
+        "baseUrl": ".",  // El directorio base para resolver módulos
         "paths": {
-            "@/*": [
-                "./src/*"
-            ]
-        }
-        // ...
-    }
+            "@/*": ["./src/*"]  // Alias para importar módulos desde 'src'
+        },
+        "jsx": "react",  // Configura el JSX para React
+        "moduleResolution": "node",  // Resolución de módulos estilo Node.js
+        "target": "es6",  // Objetivo de transpilación
+        "module": "commonjs"  // Módulo de sistema de módulos
+    },
+    "exclude": ["node_modules", "build"]  // Carpetas que deben ser excluidas de la indexación
 }
