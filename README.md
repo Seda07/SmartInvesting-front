@@ -1,8 +1,51 @@
-# React + Vite
+# SMART INVESTING
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Index 📑
+- [Project Description](#project-description-)
+- [Technologies and Libraries Used](#2-technologies-and-libraries-used)
+- [Installation](#3-installation)
+- [Developers](#4-developers-️)
 
-Currently, two official plugins are available:
+## 1-Project Description 📖
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Voyage Craft is an application that allows users to discover personalized travel destinations based on their preferences. Through an interactive form, users enter their interests and travel dates, and the system recommends ideal destinations, among other things. This project helps learn how to connect with the backend.
+
+
+
+## 2-Technologies and Libraries Used
+
+-Front-end: Tecnologías HTML, CSS, JS Vanilla. 
+-Libraries and plugins: REACT con vite, React-Router-Dom. 
+-Front-end libraries: (Axios, Tailwind)
+-Version control: Git (gitflow)
+-Testing: Vitest
+
+
+
+## 3-Installation
+
+Follow these steps to set up the project in your local environment and get started.
+
+1. **Create a fork of the repository**
+
+      Open the [VoyageCraft_front](https://github.com/0795PAO/VoyageCraft_front) repository on GitHub and click the "Fork" button in the top right corner of the page. This will create a copy of the repository in your own GitHub account.
+
+2. **Clone your forked repository**
+
+      Open a Git Bash terminal and run the command with the link to your new repository:
+
+   git clone (Link)
+
+3. **Abre tu Visual Studio**
+
+   code .
+
+And don't forget to run `npm install` in the terminal before you start.
+
+
+
+## 4. Developers 🖥️
+
+
+[**Seda Gevorgyan**](https://github.com/Seda07)
+
