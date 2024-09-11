@@ -8,8 +8,7 @@
 
 ## 1-Project Description 📖
 
-Voyage Craft is an application that allows users to discover personalized travel destinations based on their preferences. Through an interactive form, users enter their interests and travel dates, and the system recommends ideal destinations, among other things. This project helps learn how to connect with the backend.
-
+Smart Investing es una aplicación financiera dirigida a inversores en el mercado de valores, inicialmente enfocada en España. La aplicación permitirá a los usuarios buscar de manera personalizada, analizar y gestionar empresas cotizadas, utilizando filtros específicos que se ajustan a las preferencias individuales de cada usuario. Con funcionalidades diseñadas tanto para inversores novatos como experimentados, el objetivo es proporcionar una herramienta intuitiva y potente que ayude a los usuarios a tomar decisiones de inversión informadas.
 
 
 ## 2-Technologies and Libraries Used
