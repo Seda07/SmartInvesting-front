@@ -1,14 +1,13 @@
-import Login from "@/components/login/login";
-import SignUp from "@/components/signUp/SignUp";
+import { createBrowserRouter, Navigate } from 'react-router-dom';
+import Company from "@/components/company/Company"
+import HomePage from "@/pages/homePage";
 import ProtectedRoute from "@/layout/ProtectedRoute";
 import PublicRoute from "@/layout/PublicRoute";
-import { createBrowserRouter, Navigate } from "react-router-dom";
-import HomePage from "@/pages/homePage";
-
+import Login from "@/components/login/login";
+import SignUp from "@/components/signUp/SignUp";
 
 const router = createBrowserRouter([
   {
-
     element: <PublicRoute />,
     children: [
       {
@@ -17,7 +16,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/login",
-        element: <Login />,
+        element: <Login/>,
       },
       {
         path: "/register",
@@ -32,13 +31,13 @@ const router = createBrowserRouter([
         path: "/home",
         element:  <HomePage/>
       },
-      
-
-      
+      {
+        path: "/company",  // Ruta para la página "Company"
+        element: <Company/>
+      },
     ],
   }
-
-
 ]);
 
-export default router
+export default router;
+
