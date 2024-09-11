@@ -28,7 +28,7 @@ Follow these steps to set up the project in your local environment and get start
 
 1. **Create a fork of the repository**
 
-      Open the [VoyageCraft_front](https://github.com/0795PAO/VoyageCraft_front) repository on GitHub and click the "Fork" button in the top right corner of the page. This will create a copy of the repository in your own GitHub account.
+      Open the [VoyageCraft_front(https://github.com/Seda07/SmartInvesting-front) repository on GitHub and click the "Fork" button in the top right corner of the page. This will create a copy of the repository in your own GitHub account.
 
 2. **Clone your forked repository**
 
